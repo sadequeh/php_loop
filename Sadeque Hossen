@@ -1,0 +1,8 @@
+<?php
+
+for ($i=0; $i <511 ; $i++) { 
+    echo " I LOVE MATHEMATICS <br>";
+}
+
+
+?>
